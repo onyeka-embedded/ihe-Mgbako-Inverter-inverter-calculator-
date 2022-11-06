@@ -1,3 +1,22 @@
+## App description
+ihe mgbako Inverter (Inverter Calculator) OUT NoW!!!
+
+Before you decide to buy inverter system for your home, there are two basic questions you must answer;
+
+1. What rating of inverter do I need to power my loads??
+2. How long do I want the inverter to power (backup) my loads??
+
+So, we decided to develop a mobile application that can help you perform these basic tasks.
+
+The app offers basically two functionalities:
+- It helps you calculate the total load in your house and suggest the suitable inverter rating for your load.
+- It helps suggest the battery capacity for your preferred back up time 
+
+🔥🔥Click the link below to download👇🏾👇🏾
+https://play.google.com/store/apps/details?id=com.symbiotiktech.ihe_mgbako_inverter
+🔥🔥 YouTube video
+https://youtu.be/FQGaEtSjuyg
+
 # ihe-Mgbako-Inverter-inverter-calculator-
 
 ![1](https://user-images.githubusercontent.com/85957655/193649873-a8e8f504-910c-4b9d-8f6b-1701af5c03fd.png)
