@@ -14,10 +14,11 @@ The app offers basically two functionalities:
 
 🔥🔥Click the link below to download👇🏾👇🏾
 https://play.google.com/store/apps/details?id=com.symbiotiktech.ihe_mgbako_inverter
+
 🔥🔥 YouTube video
 https://youtu.be/FQGaEtSjuyg
 
-# ihe-Mgbako-Inverter-inverter-calculator-
+# Screenshots
 
 ![1](https://user-images.githubusercontent.com/85957655/193649873-a8e8f504-910c-4b9d-8f6b-1701af5c03fd.png)
 
